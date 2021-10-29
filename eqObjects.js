@@ -4,6 +4,7 @@ const eqArrays = function (array1, array2) {
           return false;
       }
   }
+
   return true;
 };
 const eqObjects = function (object1, object2) {
@@ -42,4 +43,4 @@ const assertObjectsEqual = function (actual, expected) {
 
 assertObjectsEqual({ a: 1, b: 2 }, { b: 2, a: 1 });
 assertObjectsEqual({ a: 1, b: 2, c: 'dog' }, { b: 2, a: 1, c: 'dog' });
-assertObjectsEqual({ a: 1, b: 2, d: 4 }, { b: 2, a: 1, d: 5 }); 
+assertObjectsEqual({ a: 1, b: 2, d: 4 }, { b: 2, a: 1, d: 5 });
