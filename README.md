@@ -38,9 +38,11 @@ The following functions are currently implemented:
 * `eqObjects(...)`: compares two objects to check for a match
 * `eqArrays(...)`: compares two arrays to check for a match
 * `countOnly(...)`: return counts for a specific subset of those items
-*`countLetters(...)`: counts the number of letters in a string
-*`assertEqual(...)`: compares strings and numbers and asserts whether they are equal
-*`assertArraysEqual(...)`: assertion test to determine whether two arrays are equal
-*`assertObjects Equal(...)`: ssertion test to determine whether two objects are equal
+* `countLetters(...)`: counts the number of letters in a string
+* `assertEqual(...)`: compares strings and numbers and asserts whether they are equal
+* `assertArraysEqual(...)`: assertion test to determine whether two arrays are equal
+* `assertObjectsEqual(...)`: assertion test to determine whether two objects are equal
+
+
 
 
