@@ -1,5 +1,4 @@
 # Lotide
-
 A mini clone of the [Lodash](https://lodash.com) library.
 
 ## Purpose
@@ -9,7 +8,6 @@ A mini clone of the [Lodash](https://lodash.com) library.
 This project was created and published by me as part of my learnings at Lighthouse Labs. 
 
 ## Usage
-
 **Install it:**
 
 `npm install @faridamoussaeff/lotide`
